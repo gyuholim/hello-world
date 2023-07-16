@@ -1,2 +1,3 @@
 # hello-world
-My delayed exdercise for learning the usage of github
+My delayed exdercises for learning the usage of github.
+Spelling has benn checked for this file.
